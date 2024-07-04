@@ -13,6 +13,6 @@
 
 > antd-template-vue3.x  
 > 简介：后台管理系统模版 - 基于 Ant Design Vue(3.x/4.x) 组件库，遵循 Vue3.x 开发规范 (注:数据由 msw 模拟)<br />
-> 文档：[https://antd-templater.github.io/docs/vue3.x/](https://antd-templater.github.io/docs/vue3.x/)<br />
+> 文档：[https://antd-templater.github.io/docs/vue3.x](https://antd-templater.github.io/docs/vue3.x)<br />
 > 预览：[https://antd-templater.github.io/preview/vue3.x](https://antd-templater.github.io/preview/vue3.x)<br />
 > 规范：[https://github.com/antd-templater/standard-3.x](https://github.com/antd-templater/standard-3.x)<br />
