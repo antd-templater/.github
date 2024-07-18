@@ -7,7 +7,7 @@
 > antd-template-vue2.x  
 > 简介：后台管理系统模版 - 基于 Ant Design Vue 组件库，遵循 Vue2.x 开发规范 (注:数据由 mockjs 模拟)<br />
 > 预览：[https://antd-templater.github.io/preview/vue2.x](https://antd-templater.github.io/preview/vue2.x)<br />
-> 规范：[https://github.com/antd-templater/standard-2.x](https://github.com/antd-templater/standard-2.x)<br />
+> 规范：[https://github.com/antd-templater/vue-standard-2.x](https://github.com/antd-templater/vue-standard-2.x)<br />
 
 <br/>
 
